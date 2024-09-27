@@ -1,3 +1,5 @@
+# FacadePattern-SimplifiedIntelligentHomeSystem
+
 Simplified Intelligent Home System
 
 The HomeApp needs to manage various home services for an intelligent home system. 
